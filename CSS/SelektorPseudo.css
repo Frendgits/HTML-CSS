@@ -1,0 +1,7 @@
+selector:pseudo-class {
+    /* definisi properti di sini*/
+}
+
+a:hover {
+    color: green;
+}
